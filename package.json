@@ -1,0 +1,23 @@
+{
+  "name": "slides",
+  "version": "0.0.0",
+  "description": "Slideshow for geeks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hacksparrow/slides.git"
+  },
+  "keywords": [
+    "slideshow",
+    "ppt"
+  ],
+  "author": "Hage Yaapa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hacksparrow/slides/issues"
+  },
+  "homepage": "https://github.com/hacksparrow/slides"
+}
